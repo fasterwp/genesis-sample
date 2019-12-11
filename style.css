@@ -155,7 +155,7 @@ html {
 
 body {
 	background-color: #fff;
-	color: #2D3748;
+	color: #40434A;
 	font-family: 'Avenir Next','Segoe UI', Roboto, Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	font-weight: 400;
@@ -177,7 +177,7 @@ textarea:focus,
 }
 
 a {
-	color: #096b1c;
+	color: #000;
 	text-decoration: underline;
 	transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 }
@@ -241,7 +241,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #22292F;
+	color: #202329;
 	font-weight: 700;
 	line-height: 1.2;
 	margin: 0 0 20px;
@@ -445,7 +445,7 @@ input[type="submit"]:hover,
 .site-container div.wpforms-container-full .wpforms-form button[type="submit"]:hover,
 .button:focus,
 .button:hover {
-	background-color: #096b1c;
+	background-color: #000;
 	border-width: 0;
 	color: #fff;
 }
@@ -699,13 +699,13 @@ th:last-child {
 
 .entry-title a,
 .sidebar .widget-title a {
-	color: #22292F;
+	color: #202329;
 	text-decoration: none;
 }
 
 .entry-title a:focus,
 .entry-title a:hover {
-	color: #096b1c;
+	color: #000;
 }
 
 .widget-title {
@@ -995,7 +995,7 @@ img.alignright,
 .genesis-nav-menu .current-menu-item > a,
 .genesis-nav-menu .sub-menu .current-menu-item > a:focus,
 .genesis-nav-menu .sub-menu .current-menu-item > a:hover {
-	color: #096b1c;
+	color: #000;
 	text-decoration: none;
 }
 
@@ -1073,7 +1073,7 @@ img.alignright,
 .sub-menu-toggle:hover {
 	background-color: transparent;
 	border-width: 0;
-	color: #096b1c;
+	color: #000;
 }
 
 .menu-toggle {
@@ -1328,8 +1328,8 @@ p.entry-meta {
 }
 .comment-reply-link:focus,
 .comment-reply-link:hover {
-	color: #096b1c;
-	border: 1px solid #096b1c;
+	color: #000;
+	border: 1px solid #000;
 }
 
 /* Sidebar
@@ -1448,7 +1448,7 @@ p.entry-meta {
 
 	.genesis-nav-menu > .menu-highlight > a:focus,
 	.genesis-nav-menu > .menu-highlight > a:hover {
-		background-color: #096b1c;
+		background-color: #000;
 	}
 
 	.genesis-nav-menu .sub-menu,
